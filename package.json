@@ -1,0 +1,12 @@
+{
+  "name": "scouts-presentations",
+  "version": "1.0.0",
+  "description": "Generador de PDFs de presentación para cada unidad del Grupo Scout San Cayetano",
+  "main": "generate_pdfs.js",
+  "scripts": {
+    "generate-pdfs": "node generate_pdfs.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
