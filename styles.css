@@ -580,12 +580,6 @@ body {
     box-shadow: 0 6px 18px rgba(37, 211, 102, 0.28);
 }
 
-.whatsapp-link--web {
-    background: #0f172a;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow: 0 6px 18px rgba(15, 23, 42, 0.28);
-}
-
 .whatsapp-link svg {
     width: 18px;
     height: 18px;
@@ -596,10 +590,6 @@ body {
 .whatsapp-link:hover {
     background: #1ebe5b;
     transform: translateY(-1px);
-}
-
-.whatsapp-link--web:hover {
-    background: #1e293b;
 }
 
 /* --- Sección Especialidades (Oscura) --- */
